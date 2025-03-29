@@ -1,7 +1,7 @@
 #include<stdio.h>
 #include "main.h"
 /**
- * main - print_aphabet
+ * print_alphabet - print alphabets from 'a' to 'z' using _putchar function
  *
  * Return: Always 0.
  */
